@@ -1,0 +1,56 @@
+ /*   Class-1     */
+
+ .head1 {
+     background-color: transparent;
+     height: 10vh;
+ }
+
+ .img {
+     display: inline-block;
+     height: 10vh;
+     position: absolute;
+     margin: 15px 0 0 2vw;
+ }
+
+ .ul {
+     position: relative;
+     top: 12px;
+     left: 37vw;
+ }
+
+ .li {
+     position: relative;
+     left: 30vw;
+     color: rgb(0, 0, 0);
+     display: inline-block;
+     margin: 15px 2vw 0 0;
+     font-family: monospace;
+ }
+
+ .li:hover {
+     color: rgb(170, 65, 65);
+     font-weight: 600;
+ }
+
+ .my{
+position: absolute;
+left: 30vw;
+font-size: 
+22.4px;
+}
+.itn{
+    position: absolute;
+    top: 30vw;
+    left: 45vw;
+}
+.box{
+    position: absolute;
+    top: 37vh;
+    left: 30vw;
+}
+
+.box2{
+    position: absolute;
+    top: 37vh;
+    left: 55vw;
+}
